@@ -138,7 +138,7 @@ jobs:
         force_with_lease: true
 ```
 
-An example workflow to use a GitHub App Token together with the default token inside the checkout action. You can find more information on the topic [here](https://github.com/ad-m/github-push-action/issues/173):
+An example workflow to use a GitHub App Token together with the default token inside the checkout action:
 
 ```yaml
 jobs:
